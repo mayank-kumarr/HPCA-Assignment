@@ -1,3 +1,5 @@
+# HPCA Assignment
+
 The benchmark program assigned for simulation is "qsort5.c". It has been compiled using `gcc qsort5.c -S -o qsort5 -lpthread`. Its execution is simulated with the gem5 simulator system across multiple varying parameters. 
 
 To run the config script for the top 10 configurations, do the following:
